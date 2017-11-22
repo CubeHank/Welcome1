@@ -5,9 +5,10 @@ import java.util.*;
 
 //
 //Employee class is a subclass
+//This line is wdh modify in github website,test code from github to local;
 public class Employee extends Person
 {
-	//Õâ¸ö×Ö¶ÎÔÚ±¾°üÄÚµÄÆäËûÀàÖĞ¿ÉÒÔÍ¨¹ı¶ÔÏóÃû·ÃÎÊ£¬²»°²È«
+	//è¿™ä¸ªå­—æ®µåœ¨æœ¬åŒ…å†…çš„å…¶ä»–ç±»ä¸­å¯ä»¥é€šè¿‡å¯¹è±¡åè®¿é—®ï¼Œä¸å®‰å…¨
 	String warningString;
 	
 	public Employee()
