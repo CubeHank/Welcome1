@@ -10,6 +10,7 @@ public class Employee extends Person
 {
 	//这个字段在本包内的其他类中可以通过对象名访问，不安全
 	String warningString;
+String testString;//This line is wdh modify in github websit,test github code control
 	
 	public Employee()
 	{
